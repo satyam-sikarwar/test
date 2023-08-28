@@ -1,5 +1,0 @@
-{{#user}}
-Name: Satyam
-Skills: Python, Linux, kubernetes, Cloud Computing
-Email: sikarwarsatyam11@gmail.com
-{{/user}}
